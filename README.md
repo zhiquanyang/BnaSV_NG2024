@@ -1,7 +1,7 @@
 # BnaSV_NG2024
 # 1. SV identifying
 
-## &#x20;1.1 Genome comparison
+## &#x20;1.1 Genome alignment
 
 We compared the contigs between the ZS11 reference genome and the other 15 assembled genomes using NUCmer program in MUMmer4.
 
